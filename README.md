@@ -38,7 +38,7 @@ this list update contineusly
 | 22 | OptSmart: Optimistic Concurrent Execution of Smart Contracts | [Link](https://lnkd.in/gFJhgamn) |
 | 23 | DEFECTCHECKER: Smart Contract Defect Detection | [Link](https://lnkd.in/gKNNN34h) |
 | 24 | Profiling Gas Leaks in Solidity Smart Contracts | [Link](https://lnkd.in/g2dMHYac) |
-| 25 | Smart Contract Vulnerability Detection using DNN and Transfer Learning | [Link](https://lnkd.in/gV8Th
+| 25 | Smart Contract Vulnerability Detection using DNN and Transfer Learning | [Link](https://lnkd.in/gV8Th) |
 
 
 
