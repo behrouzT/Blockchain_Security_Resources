@@ -17,7 +17,7 @@ this list update contineusly
 | # | Resource | Link |
 |---|---|---|
 | 1 | Blockchain Security Roadmap | [Link](https://lnkd.in/gPw7Nf4J) |
-| 2 | Comprehensive Guide to Smart Contract Attack Vectors | [Link](https://lnkd.in/gSV_bj9R) |
+| 2 | Comprehensive Guide to Smart Contract Attack Vectors | [Link](https://github.com/behrouzT/Audit---Attack-vectors) |
 | 3 | Analysis of Attacks on Ethereum Smart Contracts | [Link](https://lnkd.in/gnzDrXaH) |
 | 4 | BLOCKEYE - Hunting For DeFi Attacks on Blockchain | [Link](https://lnkd.in/gvxmW8Hu) |
 | 5 | Blockchain Networks Topological Anomaly Detection | [Link](https://lnkd.in/gPG6vrAM) |
