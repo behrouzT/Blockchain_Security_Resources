@@ -7,6 +7,8 @@ Hello, Decentralized Innovators!
 Mastering security in the blockchain ecosystem is a continual process of learning and adapting. It's a significant component of our responsibility as blockchain developers to ensure the safety of our platforms and the trust of our users.
 
 Today, I am sharing a treasure trove of resources that will help you delve deeper into the labyrinth of blockchain security: 
+
+
 this list update contineusly
 
 
