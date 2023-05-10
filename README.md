@@ -36,4 +36,4 @@ Today, I am sharing a treasure trove of resources that will help you delve deepe
 
 These resources will broaden your understanding and provide essential insights into various aspects of blockchain security. What other invaluable resources would you suggest adding to this list? 
 
-Remember, in the world of #Web3, security is not an afterthought but a foundational element of every successful project. Let's
+Remember, in the world of #Web3, security is not an afterthought but a foundational element of every successful project.
