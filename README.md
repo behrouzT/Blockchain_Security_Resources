@@ -1,4 +1,4 @@
-Empower Your Blockchain Development Journey with These Security Resources
+<h1> Empower Your Blockchain Development Journey with These Security Resources </h1>
 
 Hello, Decentralized Innovators!
 
@@ -6,7 +6,8 @@ Hello, Decentralized Innovators!
 
 Mastering security in the blockchain ecosystem is a continual process of learning and adapting. It's a significant component of our responsibility as blockchain developers to ensure the safety of our platforms and the trust of our users.
 
-Today, I am sharing a treasure trove of resources that will help you delve deeper into the labyrinth of blockchain security: this list update contineusly
+Today, I am sharing a treasure trove of resources that will help you delve deeper into the labyrinth of blockchain security: 
+this list update contineusly
 
 1. [Blockchain Security Roadmap](https://lnkd.in/gPw7Nf4J)
 2. [Comprehensive Guide to Smart Contract Attack Vectors](https://lnkd.in/gSV_bj9R)
